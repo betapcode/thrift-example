@@ -3,7 +3,7 @@ Requirements
   
  * thrift
  * python thrift lib
-
+ * libmicrohttpd https://www.openlighting.org/ola/linuxinstall/
 
 To Compile
 ==========
