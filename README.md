@@ -22,7 +22,6 @@ To Run
 
 Link:
 ========
-<script src="https://gist.github.com/betapcode/4a6c56ba5ff4112a052616caafd57744.js"></script>
-
+https://gist.github.com/betapcode/4a6c56ba5ff4112a052616caafd57744
 
 
